@@ -1,6 +1,6 @@
 # DSA Practice in Java 🚀
 
-A structured repository for practicing **Data Structures and Algorithms (DSA)** using **Java**.
+A structured repository for practicing **Data Structures and Algorithms (DSA)** using **Java**
 
 I solve problems from platforms such as **LeetCode** and maintain my solutions here to track my progress, improve problem-solving skills, and prepare for technical interviews and placements.
 
